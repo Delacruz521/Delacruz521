@@ -1,4 +1,4 @@
-
+<img width="1000" height="500" src="https://cutewallpaper.org/21/star-wars-4k-wallpaper/Kylo-Ren-Lightsaber-Star-Wars-4K-3840x2160-Wallpaper-16.jpg">
 <h1 align="center">Hi 🙌, I'm Karl Anthony</h1>
 <h3 align="center">A passionate frontend and backend developer from Philippines</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/anikakash/anikakash/main/assets/focus-animation.gif?raw=true">
