@@ -6,8 +6,12 @@
             worked with
             creative teams, which involves daily stand-ups and communications, source control, and project management.
 </h3>
-<hr>
-<hr>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <div align="center">
 <a href="https://twitter.com/karl" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="karl" /></a> 
@@ -15,6 +19,10 @@
 <a href="https://twitter.com/karl" target="blank"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="karl" /></a>
 </div>
 
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <hr>
