@@ -19,8 +19,8 @@
 <hr>
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,mysql,flask,django" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,mysql,django,flask" /><br>
 </div>
 
 <br>
