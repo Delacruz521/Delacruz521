@@ -1,6 +1,5 @@
 <h1 align="center">Hi 🙌, I'm Karl Anthony</h1>
 <h3 align="center">A passionate frontend and backend developer from Philippines</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/anikakash/anikakash/main/assets/focus-animation.gif?raw=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karl&label=Profile%20views&color=0e75b6&style=flat" alt="karl" /> </p>
 
@@ -33,7 +32,6 @@
 
 <div align="center">
   <h2> My Contributions </h2>
-  <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
