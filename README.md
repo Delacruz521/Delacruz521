@@ -1,4 +1,4 @@
-<img src="https://ecard.enter-media.org/upload/iblock/484/4842b4081cf17f58af869f76d9f7b122.gif"/ width="100%", height="100%">
+<img src="https://ecard.enter-media.org/upload/iblock/484/4842b4081cf17f58af869f76d9f7b122.gif"/">
 
 <h3 align="center">Hi! I’m Karl Anthony, and I’m a developer who has passion for building clean web applications with intuitive
             functionalities. I enjoy the process of turning ideas into reality using creative solutions. I’m always
