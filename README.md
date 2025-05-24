@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/736x/68/a4/33/68a43387adc3975cf0ec51e64fbe2579.jpg"/ width="100%", height="100%">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fpc-wallpaper-dark%2F17&psig=AOvVaw3hTdhbTEckn9hhGQA575Z4&ust=1748170998960000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMisj7T6u40DFQAAAAAdAAAAABAE"/ width="100%", height="100%">
 
 <h3 align="center">Hi! I’m Karl Anthony, and I’m a developer who has passion for building clean web applications with intuitive
             functionalities. I enjoy the process of turning ideas into reality using creative solutions. I’m always
