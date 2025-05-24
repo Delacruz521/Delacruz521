@@ -1,4 +1,4 @@
-<img src"https://i.pinimg.com/736x/de/b9/f4/deb9f41bf82a1bdf15e74fe4e8200f77.jpg">
+<img src="https://i.pinimg.com/736x/68/a4/33/68a43387adc3975cf0ec51e64fbe2579.jpg"/ width=100%; height=100%;>
 
 <h3 align="center">Hi! I’m Karl Anthony, and I’m a developer who has passion for building clean web applications with intuitive
             functionalities. I enjoy the process of turning ideas into reality using creative solutions. I’m always
