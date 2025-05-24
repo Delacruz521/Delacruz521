@@ -1,4 +1,4 @@
-<img src="https://static.vecteezy.com/system/resources/thumbnails/009/302/766/small_2x/silhouette-landscape-with-fog-forest-pine-trees-mountains-illustration-of-night-view-mist-black-and-white-good-for-wallpaper-background-banner-cover-poster-free-vector.jpg"/ width="100%", height="100%">
+<img src="[https://static.vecteezy.com/system/resources/thumbnails/009/302/766/small_2x/silhouette-landscape-with-fog-forest-pine-trees-mountains-illustration-of-night-view-mist-black-and-white-good-for-wallpaper-background-banner-cover-poster-free-vector.jpg](https://ecard.enter-media.org/upload/iblock/484/4842b4081cf17f58af869f76d9f7b122.gif)"/ width="100%", height="100%">
 
 <h3 align="center">Hi! I’m Karl Anthony, and I’m a developer who has passion for building clean web applications with intuitive
             functionalities. I enjoy the process of turning ideas into reality using creative solutions. I’m always
